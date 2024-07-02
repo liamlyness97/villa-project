@@ -1,1 +1,1 @@
-<div class="h-[80vh] w-full bg-[url('/hero1.jpg')] bg-cover bg-no-repeat"></div>
+<div class="h-[75vh] w-full bg-[url('/hero2.jpg')] bg-cover bg-no-repeat"></div>
